@@ -34,10 +34,10 @@
 
 | Category | Technology |
 | :--- | :--- |
-| **Framework** | Next.js 15 (App Router) |
+| **Framework** | Next.js |
 | **Language** | TypeScript |
 | **Database** | MongoDB Atlas (Mongoose ODM) |
-| **Styling** | Tailwind CSS + Shadcn/UI |
+| **Styling** | Tailwind CSS|
 | **Charts** | Recharts |
 | **Animations** | Framer Motion |
 | **Token Verification** | JWT |
